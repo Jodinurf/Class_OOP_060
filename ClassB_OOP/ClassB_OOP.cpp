@@ -39,8 +39,7 @@ public:
 		cout << "Masukkan SKS :";
 		cin >> sks;
 	}
+	void tampilMK() {
+	
+	}
 };
-
-void tampilMK() {
-
-}
