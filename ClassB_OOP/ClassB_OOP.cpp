@@ -50,5 +50,5 @@ public:
 int main()
 {
 	Mahasiswa mhs;
-
+	mataKuliah mk;
 }
