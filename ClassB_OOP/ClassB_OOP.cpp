@@ -26,5 +26,5 @@ void Mahasiswa::printData() {
 };
 
 class mataKuliah {
-
+private:
 };
