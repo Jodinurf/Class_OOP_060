@@ -40,3 +40,7 @@ public:
 		cin >> sks;
 	}
 };
+
+void tampilMK() {
+
+}
